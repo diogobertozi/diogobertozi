@@ -60,12 +60,17 @@ Hi, I'm <a href="https://github.com/diogobertozi">Diogo Bertozi</a>
 </td>
 <td width="48%" valign="top">
 
+### Certifications & awards
+
 <p>
-  <img width="420" src="https://github-readme-stats.vercel.app/api?username=diogobertozi&show_icons=true&theme=tokyonight&hide_border=true&hide_title=false&hide=issues,contribs&bg_color=0D1117" alt="" />
+<img src="https://img.shields.io/badge/Cambridge_FCE-B2%20·%20162%2F200-355E3B?style=for-the-badge" alt="Cambridge FCE B2" /><br/>
+<img src="https://img.shields.io/badge/BSTQB-CTFL-1B4F72?style=for-the-badge" alt="BSTQB CTFL" /><br/>
+<img src="https://img.shields.io/badge/OMM%202016-Silver%20·%20Level%202-8B8680?style=for-the-badge" alt="OMM 2016 Silver" />
 </p>
-<p>
-  <img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogobertozi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=6" alt="" />
-</p>
+
+Cambridge English **FCE** (Level B2) — 162/200  
+**BSTQB CTFL** — Certified Tester Foundation Level  
+**OMM 2016** — Silver, Minas Gerais Mathematics Olympiad (Level 2)
 
 </td>
 </tr>
